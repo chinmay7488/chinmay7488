@@ -4,16 +4,32 @@
 
 
 <h2 align="center">Hi 👋, I'm Chinmay Jain</h2>
-<h4 align="center">Machine Learning & Python Developer</h4>
 
+<center>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</p></center>
+
+
+
+- &#128104;&#127995;&#8205;&#128187; **Machine Learning and Python Developer!**
 - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**.
 - &#x1f393; Pursuing **B.Tech.** in Computer Science from **LNCT, Bhopal**.
 - 🔭 I’m currently working on [Product Price Tracker](https://github.com/chinmay7488/Product-Price-Tracker)
-
 - 🌱 I’m currently learning **Data Structure**
-
 - 💬 Ask me about **Machine Learning, python**
-
 - 📫 How to reach me **chinmayjainst8314@gmail.com**
 - &#127911; Loves to listen **Music** and **Playing games** during Chill Time.
 - &#x1f3af; Motto : **"Make it work, make it right, make it fast."** &nbsp;
