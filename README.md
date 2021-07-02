@@ -51,3 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmay7488&show_icons=true&theme=radical&hide_border=true&locale=en" alt="chinmay7488" /></p>
 
+<!--START_SECTION:activity-->
