@@ -22,7 +22,13 @@
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p></center>
 
-
+<p align="right">
+  <p align="right">  
+  <!-- Spotify Track -->
+  <!-- [<p align="right"><img src="https://novatorem-itzprasuk.vercel.app/api/spotify" alt="Spotify Playing" width="350" align="right"/></p>](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8) -->
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="300" align="right"/>
+  </p>
+ </p>
 
 - &#128104;&#127995;&#8205;&#128187; **Machine Learning and Python Developer!**
 - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**.
