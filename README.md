@@ -27,12 +27,12 @@
   </p>
  </p>
  
-- &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
+- &#128104;&#127995;&#8205;&#128187; **Machine Learning and Python Developer!**
 - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**.
-- &#x1f393; Pursuing **B.Tech.** in Electronics from **SGSITS, Indore**.
-- &#128187; I’m currently learning about **Express.js and Django**.
-- &#127911; Loves to listen **Music** and **Read Novels** during Chill Time.
-- &#x1f3af; Motto : **"Code is like humour. When you have to explain it, it's bad!!!"** &nbsp;
+- &#x1f393; Pursuing **B.Tech.** in Computer Science from **LNCT, Bhopal**.
+- &#128187; I’m currently learning about **Data Structure and Algorithms**.
+- &#127911; Loves to listen **Music** and **Playing games** during Chill Time.
+- &#x1f3af; Motto : **"Make it work, make it right, make it fast."** &nbsp;
 
 </p>
 </center>
@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <a align="center" href="mailto:prasukjain0047@gmail.com" target="blank"
+  <a align="center" href="mailto:chinmayjainst8314@gmail.com" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"
@@ -84,7 +84,7 @@
   >&nbsp;
   <a
     align="center"
-    href="https://www.facebook.com/thereal.prasuk/"
+    href="https://www.facebook.com/chinmay.jain.5249349/"
     target="blank"
     ><img
       align="center"
@@ -93,15 +93,15 @@
       height="40"
       width="40" /></a
   >&nbsp;
-  <a align="center" href="https://twitter.com/thereal_prasuk" target="blank"
+<!--   <a align="center" href="https://twitter.com/thereal_prasuk" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
       alt="twitter"
       height="40"
       width="40"
-  /></a>
-  <a align="center" href="https://linkedin.com/in/prasukjain04" target="blank"
+  /></a> -->
+  <a align="center" href="https://www.linkedin.com/in/chinmay-jain-48874819a/" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
@@ -110,7 +110,7 @@
       width="40"
   /></a>
   &nbsp;
-  <a align="center" href="https://instagram.com/thereal_prasuk" target="blank"
+  <a align="center" href="https://www.instagram.com/__chinmay__jain_/" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
