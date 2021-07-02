@@ -32,6 +32,8 @@
 - 💬 Ask me about **Machine Learning, python**
 - 📫 How to reach me **chinmayjainst8314@gmail.com**
 - &#127911; Loves to listen **Music** and **Playing games** during Chill Time.
+
+<!--START_SECTION:activity-->
 - &#x1f3af; Motto : **"Make it work, make it right, make it fast."** &nbsp;
 
 <h3 align="left">Connect with me:</h3>
