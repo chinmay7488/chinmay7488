@@ -25,7 +25,9 @@ Outside of tech, I am a gamer, and I like planting plants.
 For more details <a href="">visit here.</a>
  </p>
 
-
+<div style="border:2px solid red">
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+</div>
 
 <!-- 
 </body>
