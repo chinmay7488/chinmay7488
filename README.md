@@ -25,9 +25,7 @@ Outside of tech, I am a gamer, and I like planting plants.
 For more details <a href="">visit here.</a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmay7488&show_icons=true&theme=merko&locale=en&layout=compact" alt="chinmay7488" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmay7488&show_icons=true&theme=radical&hide_border=true&locale=en" alt="chinmay7488" /></p>
 
 <!-- 
 </body>
