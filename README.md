@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -9,7 +9,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap" rel="stylesheet">
   <title>Document</title>
 </head>
-<body>
+<body> -->
   <img src="images/Banner.jpg">
 
  <ul>
@@ -21,6 +21,6 @@
 <li>For more details <span>visit here.</span></li>
  </ul>
 
-
+<!-- 
 </body>
-</html>
+</html> -->
