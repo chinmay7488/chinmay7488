@@ -10,31 +10,6 @@
   <title>Document</title>
 </head>
 <body> -->
-<style>
-  *{
-    margin: 0;
-    padding: 0;
-}
-body img{
-    width: 100%;
-}
-body li{
-    list-style: none;
-    margin: 10px 15px;
-    font-size: 18px;
-    font-family: "Syne", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 500;
-    font-style: normal;
-}
-body li span{
-    text-decoration: underline;
-    cursor: pointer;
-}
-body li span:hover{
-   color: rgb(65, 65, 219);
-}
-</style>
   <img src="images/Banner.jpg">
 
  <ul>
